@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+<!![IMG_20240806_164617_527](https://github.com/user-attachments/assets/a7c1e129-be05-4527-bb3b-3a7204a828fa)
+---
 Martimsil77/Martimsil77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
